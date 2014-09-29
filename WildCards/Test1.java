@@ -3,6 +3,11 @@ package Aufg5;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author bas
+ * 
+ */
 public class Test1 {
 	
 		@SuppressWarnings("rawtypes")
