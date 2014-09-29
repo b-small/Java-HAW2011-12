@@ -1,0 +1,7 @@
+                       Aufgabenblatt 04: Sortierte generische Liste
+                        
+Blagovesta Stanoeva und Yashar Sadeghi
+
+ Bei der Verbesserung unserer Lösung haben wir die sortiere(T t), insertAt(int x, T t) Methoden neu formuliert. 
+Neu in unserem Code ist auch die Methode correctCapacity(). Auch unsere Testdatei mit String-Liste haben wir 
+bearbeitet.
