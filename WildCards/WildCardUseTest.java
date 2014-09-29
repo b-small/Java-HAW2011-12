@@ -2,6 +2,11 @@ package Aufg5;
 
 
 //import static org.junit.Assert.*;
+/**
+ * 
+ * @author bas
+ * 
+ */
 
 import org.junit.Before;
 import org.junit.Test;
