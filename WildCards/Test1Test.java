@@ -2,6 +2,12 @@ package Aufg5;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * 
+ * @author bas
+ * 
+ */
+ 
 public class Test1Test {
 	
 		Test1 t1;
@@ -18,9 +24,9 @@ public class Test1Test {
 			t1.addToCharList('W');
 			System.out.println(t1.charList);
 			t1.addToCharList('H');
-            t1.addToCharList('Y');
-            System.out.println(t1.charList);
-        	t1.addNullToWildcardList();
+                        t1.addToCharList('Y');
+                        System.out.println(t1.charList);
+        	        t1.addNullToWildcardList();
 			System.out.println(t1.charList);
 		}
 
